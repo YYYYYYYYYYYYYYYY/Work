@@ -1,7 +1,7 @@
-package innerClass;
+锘縫ackage innerClass;
 
 class Outer{
-	private String info = "使用了非静态内部类";
+	private String info = "浣跨敤浜嗛潪闈欐�佸唴閮ㄧ被";
 	class Inner{
 		public void print(){
 			System.out.println(info);

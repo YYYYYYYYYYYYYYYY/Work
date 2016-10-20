@@ -1,7 +1,7 @@
-package innerClass;
+锘縫ackage innerClass;
 
 class out{
-	private static String info = "使用了静态内部类";
+	private static String info = "浣跨敤浜嗛潤鎬佸唴閮ㄧ被";
 	
 	static class In{
 		public void print(){

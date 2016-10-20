@@ -1,10 +1,10 @@
-package innerClass;
+锘縫ackage innerClass;
 
 public class class4 {
 	public static void main(String[] args) {
 	Interface i = new Interface(){
 		public void print(){
-			System.out.println("使用了匿名内部类");
+			System.out.println("浣跨敤浜嗗尶鍚嶅唴閮ㄧ被");
 		}
 	};
 	i.print();

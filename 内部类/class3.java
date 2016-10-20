@@ -1,7 +1,7 @@
-package innerClass;
+锘縫ackage innerClass;
 
 public class class3 {
-	private String info = "使用了局部内部类";
+	private String info = "浣跨敤浜嗗眬閮ㄥ唴閮ㄧ被";
 	public void output(){
 		class Inner{
 			public void print(){
